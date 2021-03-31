@@ -8,7 +8,7 @@ My name is Brandon, and I am an aspiring Data Scientist!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have always been an individual who aims to learn and settle myself in a position that allows me to constantly learn and grow. After receiving my Bachelor's in Nutrition, Data Science was the next area that has piqued my interest and I look forward to the opportunities lying ahead.
 
 ### Contact me
 
