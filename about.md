@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Brandon, and I am an aspiring Data Scientist!
 
 ### More Information
 
